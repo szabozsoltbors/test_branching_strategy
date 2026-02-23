@@ -2,3 +2,5 @@
 
 Test repository for branching strategy
 Test main branch strategy
+
+Check direct commit
